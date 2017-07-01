@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MicroMessage</string>
+    <string name="btn_send">Send</string>
+    <string name="edit_default_text">Type here</string>
+    <string name="left_head_image">left-head-image</string>
+    <string name="right_head_image">right-head-image</string>
+    <string name="SERVER_IP">106.14.3.125</string>
+    <string name="SERVER_PORT">62840</string>
+</resources>
